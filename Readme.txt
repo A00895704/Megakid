@@ -1,7 +1,8 @@
 Megakid README.txt
 
 1.Introduction
-2.Features and Remarks
+2. How to run
+3.Features and Remarks
 
 ==============================Introduction=============================
 
@@ -10,6 +11,10 @@ Hello README reader!,
 Megakid is a final academic project I had for a first year game design course at Surrey SFU. I used processing for to make it. Megakid is a 
 2D action platformer(think Megaman hence the name). The goal for this project was 3 levels 2 being regular platforming stages and 3rd being a 
 boss battle. Unfortunately I did not finish developing the game as I ran out of time and aimed for way too much. Everything is basic shapes btw :D
+
+===How to Run===
+1.Download and install processing
+2.Run sketch_ffproj.pde
 
 ===================Features and Remarks=================================
 
